@@ -17,4 +17,5 @@
 * Vision
 * Wasp
 * Antman
-* doctor herrera
+* Doctor Herrera
+* Nick Fury
